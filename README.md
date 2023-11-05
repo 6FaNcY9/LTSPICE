@@ -17,11 +17,12 @@ Geben Sie das .asc File ebenso ab.
 `` R=1kOhm ``
 
 $$ T=2+0+0+2+4+2+9 = 19ms $$
+
 $$ C= T/R $$
+
 $$ C= 19ms/1kOhm $$
+
 $$ C= 19uF $$
-
-
 
 ## Schaltung
 
