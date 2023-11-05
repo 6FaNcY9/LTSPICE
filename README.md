@@ -12,11 +12,9 @@ Geben Sie das .asc File ebenso ab.
 
 ## Brechnungen
 
-$$Geburtsdatum=2002-4-29$$
+$$ T=Geburtsdatum=2+0+0+2+4+2+9=19ms$$
 
 $$ R=1kOhm $$
-
-$$ T=2+0+0+2+4+2+9 = 19ms $$
 
 $$ C= T/R $$
 
