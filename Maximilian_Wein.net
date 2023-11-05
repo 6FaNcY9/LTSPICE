@@ -1,0 +1,7 @@
+* C:\Users\maxwe\Documents\HWE_FUC\LTSPICE\Maximilian_Wein.asc
+R1 Uc Ue 1000 tol=1 pwr=0.1
+V1 Ue 0 PWL REPEAT FOR 4 (0 0 95m 0 95.01m 5 190m 5 190.01m -5) ENDREPEAT
+C1 Uc 0 0.000019
+.tran 1000m
+.backanno
+.end
