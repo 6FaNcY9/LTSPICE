@@ -12,7 +12,7 @@ Geben Sie das .asc File ebenso ab.
 
 ## Brechnungen
 
-$$ T=Geburtsdatum=2+0+0+2+4+2+9=19ms$$
+$$ T>P=Geburtsdatum=2+0+0+2+4+2+9=19ms$$
 
 $$ R=1kOhm $$
 
